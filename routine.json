@@ -1,0 +1,129 @@
+{
+  "Sunday": [
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "course": "CSE0613121",
+      "room": "R-203",
+      "teacher": "RA"
+    },
+    {
+      "start": "10:00",
+      "end": "11:00",
+      "course": "MATH0541121",
+      "room": "R-413",
+      "teacher": "ST"
+    },
+    {
+      "start": "11:00",
+      "end": "14:00",
+      "course": "CSE0613124",
+      "room": "R-411",
+      "teacher": "FTTE, MTS",
+      "note": "Computer Programming Lab"
+    }
+  ],
+
+  "Monday": [
+    {
+      "start": "08:00",
+      "end": "09:00",
+      "course": "GED0222121",
+      "room": "R-B-203",
+      "teacher": "ZS",
+      "note": "Multipurpose Hall"
+    },
+    {
+      "start": "09:00",
+      "end": "11:00",
+      "course": "EEE0713121",
+      "room": "R-512",
+      "teacher": "MUH"
+    },
+    {
+      "start": "12:00",
+      "end": "14:00",
+      "course": "EEE0713122",
+      "room": "R-503",
+      "teacher": "FUZ",
+      "note": "Electronics Lab (2A1)"
+    },
+    {
+      "start": "12:00",
+      "end": "14:00",
+      "course": "ME0715122",
+      "room": "R-210",
+      "teacher": "TS",
+      "note": "Drawing Lab (2A2)"
+    }
+  ],
+
+  "Tuesday": [],
+
+  "Wednesday": [
+    {
+      "start": "08:00",
+      "end": "11:00",
+      "course": "CSE0541123",
+      "room": "R-B-203",
+      "teacher": "DMK",
+      "note": "Multipurpose Hall"
+    },
+    {
+      "start": "11:00",
+      "end": "13:00",
+      "course": "MATH0541121",
+      "room": "R-412",
+      "teacher": "ST"
+    },
+    {
+      "start": "13:00",
+      "end": "15:00",
+      "course": "CSE0613121",
+      "room": "R-203",
+      "teacher": "RA"
+    }
+  ],
+
+  "Thursday": [
+    {
+      "start": "08:00",
+      "end": "09:00",
+      "course": "GED0222121",
+      "room": "R-B-203",
+      "teacher": "ZS",
+      "note": "Multipurpose Hall"
+    },
+    {
+      "start": "10:00",
+      "end": "11:00",
+      "course": "EEE0713121",
+      "room": "R-512",
+      "teacher": "MUH"
+    },
+    {
+      "start": "11:00",
+      "end": "14:00",
+      "course": "CSE0613122",
+      "room": "R-411",
+      "teacher": "EMSH, RA",
+      "note": "Computer Programming Lab"
+    },
+    {
+      "start": "09:00",
+      "end": "11:00",
+      "course": "ME0715122",
+      "room": "R-210",
+      "teacher": "MRS",
+      "note": "Drawing Lab (2A1)"
+    },
+    {
+      "start": "09:00",
+      "end": "11:00",
+      "course": "EEE0713122",
+      "room": "R-503",
+      "teacher": "FUZ",
+      "note": "Electronics Lab"
+    }
+  ]
+}
