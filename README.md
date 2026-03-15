@@ -28,15 +28,6 @@ This project helped me successfully implement JSON parsing in JavaScript after s
 3. The script parses the routine and determines the correct class based on the current day and time.
 4. The webpage displays the current or upcoming class.
 
-## Project Structure
-
-improved-routine
-│
-├── index.html
-├── style.css
-├── script.js
-├── routine.json
-└── README.md
 
 ## Purpose
 
